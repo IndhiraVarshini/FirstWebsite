@@ -57,7 +57,7 @@
   color: white;
 }
 .background {
-  background-image: url("/g-min.jpg");
+  background-image: url("https://github.com/IndhiraVarshini/FirstWebsite/blob/main/public/g-min.jpg?raw=true");
   height: 100vh;
   width: 100%;
 }
@@ -135,7 +135,7 @@
 }
 
 .background1 {
-  background-image: url("/t.jpg");
+  background-image: url("https://github.com/IndhiraVarshini/FirstWebsite/blob/main/public/t.jpg?raw=true");
   height: 100vh;
   width: 100%;
 }
@@ -190,7 +190,7 @@
 
 }
 .background3 {
-  background-image: url("/88-min.jpg");
+  background-image: url("https://github.com/IndhiraVarshini/FirstWebsite/blob/main/public/88-min.jpg?raw=true");
   height: 100vh;
   width: 100%;
 }
@@ -212,7 +212,7 @@ color: aliceblue;
 font-style: italic;
 }
 .background4 {
-  background-image: url("/-min.jpg");
+  background-image: url("https://github.com/IndhiraVarshini/FirstWebsite/blob/main/public/-min.jpg?raw=true");
   height: 100vh;
   width: 100%;
 }
